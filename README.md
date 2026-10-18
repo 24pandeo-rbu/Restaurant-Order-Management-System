@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:00B894&height=220&section=header&text=SmartServe&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=Restaurant%20Management%20System%20using%20Data%20Structures%20%26%20Algorithms&descSize=18&descAlignY=68" alt="SmartServe banner" width="100%">
@@ -644,3 +645,6 @@ No license file is included in this repository yet, so no license is granted for
 **If you like this project, give it a ⭐ on GitHub.**
 
 </div>
+=======
+# Restaurant-Order-Management-System
+>>>>>>> bd6b50a30ef6366ca496e9a71d572b8abb74dc88
